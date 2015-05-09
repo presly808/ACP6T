@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 SomeoneHasAlreadyChangedIt
+=======
+fgfgfg
+fgfgfg
+fdfdfd
+>>>>>>> 142efa9a0678ab256a331167982192e2d602d23e
